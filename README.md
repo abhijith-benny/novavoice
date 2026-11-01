@@ -9,7 +9,7 @@
 First, clone the repository locally:
 
 ```bash
-git clone https://github.com/coder-irwin/voice_ai_agents_using-Gemini_live_api.git
+git clone https://github.com/abhijith-benny/voice_ai_agents_using-Gemini_live_api.git
 ```
 
 Move into the project directory:
